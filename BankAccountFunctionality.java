@@ -2,7 +2,7 @@ package bankFunctionality;
 
 public class AccountFunctionality {
 	
-	String accountNumber;
+	String accountNumberr;
 	double balance;
 	
 	public AccountFunctionality(String accountNumber, double balance) {
