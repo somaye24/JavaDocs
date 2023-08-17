@@ -2,11 +2,11 @@ package bankFunctionality;
 
 public class AccountFunctionality {
 	
-	String accountNumber;
+	String accountNumb;
 	double balance;
 	
-	public AccountFunctionality(String accountNumber, double balance) {
-		this.accountNumber = accountNumber;
+	public AccountFunctionality(String accountNum, double balance) {
+		this.accountNumber = accountNum;
 		this.balance = balance;
 	}
 	public void deposite(double amount) {
