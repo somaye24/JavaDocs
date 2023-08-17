@@ -3,7 +3,7 @@ package bankFunctionality;
 public class AccountFunctionality {
 	
 	String accountNumber;
-	double balancee;
+	double balance;
 	
 	public AccountFunctionality(String accountNumber, double balance) {
 		this.accountNumber = accountNumber;
